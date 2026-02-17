@@ -1,1 +1,1 @@
-<a href="www.xelerqc.me">selerqc</a>
+<a href="www.xelerqc.me" target="_blank">selerqc</a>
