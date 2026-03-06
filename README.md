@@ -1,4 +1,4 @@
 <h1 align="left">Konichiwarts</h1>
 
 
-<img width="500" height="500" alt="Sad-Hamster-Seeking-Comfort-From-Owner-PNG-removebg-preview" src="https://github.com/user-attachments/assets/9895a161-15cc-4dbf-ad43-bb9b82b5d3c2"  style='height:100vh; width:100vw'/>
+<img  alt="Sad-Hamster-Seeking-Comfort-From-Owner-PNG-removebg-preview" src="https://github.com/user-attachments/assets/9895a161-15cc-4dbf-ad43-bb9b82b5d3c2"  style='height:100vh; width:100vw'/>
